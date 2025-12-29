@@ -1,2 +1,17 @@
-# Helmet-Number-Plate-Detection-using-YOLOv8
-Semester project on helmet and number plate detection using YOLOv8. Built a real-life dataset from scratch with two classes for object detection. The repo includes images, YOLO annotations, trained model &amp;demo videos, demonstrating accurate detection in practical scenarios. A complete pipeline from data collection → annotation → training → testing.
+# Helmet & Number Plate Detection using YOLOv8
+
+This repository contains my **semester project** on **real-world object detection** for **helmets and number plates** using **YOLOv8**. The dataset was **created from scratch** with real-life images, and the model demonstrates **accurate two-object detection**.
+
+---
+
+## 📌 Project Highlights
+
+- **Custom Dataset:** Real-life images annotated for `helmet` and `number_plate`.  
+- **Object Detection:** YOLOv8 model trained from scratch.  
+- **Demo Videos:** Showcase model performance in practical scenarios.  
+- **Skills:** Data collection, annotation, model training, and evaluation.
+
+---
+
+## 📂 Repository Structure
+
