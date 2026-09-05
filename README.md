@@ -12,3 +12,9 @@ This repository contains my **semester project** on **real-world object detectio
 - **Skills:** Data collection, annotation, model training, and evaluation.
 
 ---
+
+## 🛠️ Built With
+
+- **Python**
+- **Ultralytics YOLOv8**
+- **OpenCV**
